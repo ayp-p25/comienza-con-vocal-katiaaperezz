@@ -2,7 +2,7 @@
 Comienza con vocal
 """
 #Declaraciones
-vocal= 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U', 'á', 'é', 'í', 'ó', 'ú', 'Á', 'É', 'Í', 'Ó', 'Ú'
+vocal= 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U', 'á', 'é', 'í', 'ó', 'ú', 'Á', 'É', 'Í', 'Ó', 'Ú', 'Ü', 'ü'
 # Entradas
 palabra = input("Escribe una palabra: ")
 
